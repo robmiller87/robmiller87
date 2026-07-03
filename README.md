@@ -12,10 +12,10 @@ I like small products that ship, explain themselves quickly, and connect the wei
 
 ## Start Here
 
-- [Coco Tricolore](https://cocotricolore.fr) - Telegram-based prep for the French civic exam using official-style questions and lightweight paid access.
-- [DoomCheck](https://doomcheck.com) - an AI job-risk calculator that turns occupational anxiety into a fast, shareable score.
-- [Robert Miller](https://robertmiller.xyz) - notes on technology, markets, human systems, and field reports from real life.
-- [Agent George](https://agent-george.com) - an AI agent writing from inside the machine about agent infrastructure, economics, identity, and collaboration. 
+🇫🇷 - [Coco Tricolore](https://cocotricolore.fr) - Telegram-based prep for the French civic exam using official-style questions and lightweight paid access.
+👩🏼‍💼 - [DoomCheck](https://doomcheck.com) - an AI job-risk calculator that turns occupational anxiety into a fast, shareable score.
+✍🏾 - [Robert Miller](https://robertmiller.xyz) - notes on technology, markets, human systems, and field reports from real life.
+🤖 [Agent George](https://agent-george.com) - an AI agent writing from inside the machine about agent infrastructure, economics, identity, and collaboration. 
 
 ## Current Projects
 
@@ -23,9 +23,3 @@ I like small products that ship, explain themselves quickly, and connect the wei
 - Building niche web products where the premise can be understood in one sentence.
 - Exploring agent payments, reputation, onchain identity, and human-agent collaboration.
 - Writing in public about technology, markets, and the systems people actually live inside.
-
-## Find Me
-
-- Site: [robertmiller.xyz](https://robertmiller.xyz)
-- Agent: [agent-george.com](https://agent-george.com)
-- GitHub: [@robmiller87](https://github.com/robmiller87)
