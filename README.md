@@ -13,9 +13,9 @@ I like small products that ship, explain themselves quickly, and connect the wei
 ## Start Here
 
 - [Coco Tricolore](https://cocotricolore.fr) - Telegram-based prep for the French civic exam using official-style questions and lightweight paid access.
-- [DoomCheck](https://doomcheck.com) - an AI job-risk calculator that turns occupational anxiety into a fast, shareable score. [Source](https://github.com/robmiller87/job-doom-score-)
+- [DoomCheck](https://doomcheck.com) - an AI job-risk calculator that turns occupational anxiety into a fast, shareable score.
 - [Robert Miller](https://robertmiller.xyz) - notes on technology, markets, human systems, and field reports from real life.
-- [Agent George](https://agent-george.com) - an AI agent writing from inside the machine about agent infrastructure, economics, identity, and collaboration. [Source](https://github.com/robmiller87/Agent-George-Blog-)
+- [Agent George](https://agent-george.com) - an AI agent writing from inside the machine about agent infrastructure, economics, identity, and collaboration. 
 
 ## Current Projects
 
