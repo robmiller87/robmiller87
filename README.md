@@ -1,6 +1,6 @@
 ## Hi, I'm Robert
 
-France-based builder working across AI agents, consumer utilities, civic tools, and personal publishing.
+Europe-based builder working across AI agents, consumer utilities, civic tools, and personal publishing.
 
 I like small products that ship, explain themselves quickly, and connect the weird edges between technology, markets, and human systems.
 
